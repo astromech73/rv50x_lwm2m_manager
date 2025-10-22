@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1761070012890,
+      "tag": "0000_fast_green_goblin",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1761070069844,
+      "tag": "0001_overrated_mikhail_rasputin",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1761070718977,
+      "tag": "0002_narrow_demogoblin",
+      "breakpoints": true
+    }
+  ]
+}
